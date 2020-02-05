@@ -1,0 +1,9 @@
+from,to,weight
+Harry,Hermine,3
+Hermine,Harry,3
+Harry,Ron,3
+Ron,Harry,3
+Ron,Hermine,3
+Hermine,Ron,3
+Harry,Voldemort,1
+Voldemort,Harry,2
